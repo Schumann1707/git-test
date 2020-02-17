@@ -26,4 +26,5 @@ public class GitTest {
         int i=0;
         int j =i+10;
         System.out.println(j);
+        System.out.println("克隆一份新的项目");
     }}
