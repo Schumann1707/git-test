@@ -19,4 +19,7 @@ public class GitTest {
         System.out.println("hello git");
 
     }
-}
+    public void   Test(){
+        System.out.println("提交代码到本地仓库");
+
+    }}
