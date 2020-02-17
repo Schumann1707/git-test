@@ -1,5 +1,7 @@
 package com.schumann;
 
+import javax.xml.bind.SchemaOutputResolver;
+
 /**
  * @description:
  * @projectName:GitTest
@@ -21,5 +23,7 @@ public class GitTest {
     }
     public void   Test(){
         System.out.println("提交代码到本地仓库");
-
+        int i=0;
+        int j =i+10;
+        System.out.println(j);
     }}
